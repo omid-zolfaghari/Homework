@@ -1,0 +1,14 @@
+.margin{
+    background-color: chocolate;
+    margin-bottom: 20px;
+    width: 500px;
+    border-radius: 10px;
+    padding-left: 10px;
+}
+.collapse{
+    background-color: aqua;
+    margin-top: 30px;
+    width: 500px;
+    border-radius: 10px;
+    padding-left: 10px;
+}
